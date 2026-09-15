@@ -34,3 +34,6 @@ I had an idea, what if you can share your CV website without hosting a server fo
 <img width="1920" height="1080" alt="keychain2" src="https://github.com/user-attachments/assets/f6885cad-ae8d-4a5a-af7e-4855a5791670" />
 <img width="1920" height="1080" alt="keychain1" src="https://github.com/user-attachments/assets/2451d5ef-ff19-423b-aa37-d5738471c2f2" />
 <img width="1920" height="1080" alt="keychain" src="https://github.com/user-attachments/assets/ff18b403-9ece-4ce9-b5b0-b4e947196162" />
+
+## AI DISCLOSURE
+AI was used to compare available electronics options
