@@ -1,5 +1,6 @@
 # networkingKeychain
 Keychain with electronics inside that opens introductory website
+<img width="2308" height="3508" alt="Zine" src="https://github.com/user-attachments/assets/097103f9-db17-4ad2-a04f-a8e230dd6917" />
 
 ## What is it?
 It is a device powered by ESP32 Super Mini that shares Wi-Fi and hosts Access Point website. There is an Battery that can be charged using Type-C. Also, in the top there is an NFC tag that is going to suggest connecting to Wi-Fi and entering website easily.
